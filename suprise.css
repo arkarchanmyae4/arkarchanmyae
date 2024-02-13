@@ -58,8 +58,8 @@ body{
         img {
             position: relative;
                 z-index: 1;
-                width: auto;
-                height: auto;
+                width: 600px;
+                height: 320px;
                 /* animation: helicopter 1.5s ease-in-out infinite; */
                 animation-fill-mode: both;
         }
@@ -82,8 +82,8 @@ body{
         img {
             position: relative;
             z-index: 1;
-            width: auto;
-            height: auto;
+            width: 600px;
+            height: 320px;
             /* animation: helicopter 1.5s ease-in-out infinite; */
             animation-fill-mode: both;
         }
